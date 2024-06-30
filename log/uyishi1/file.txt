@@ -1,0 +1,8 @@
+июн. 30, 2024 9:30:35 AM uyishi1.Main main
+WARNING: Warning Massage!
+июн. 30, 2024 9:30:35 AM uyishi1.Main main
+SEVERE: Severe Massage!
+июн. 30, 2024 9:30:44 AM uyishi1.Main main
+WARNING: Warning Massage!
+июн. 30, 2024 9:30:44 AM uyishi1.Main main
+SEVERE: Severe Massage!
